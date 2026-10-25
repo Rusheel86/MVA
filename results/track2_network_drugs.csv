@@ -1,0 +1,26 @@
+target,node,interaction_score,drug,chembl,stage,action,mechanism,verdict
+TOP2A,interaction partner,0.98,Amrubicin,CHEMBL1186894,APPROVAL,INHIBITOR,DNA topoisomerase II alpha inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Amsacrine,CHEMBL43,APPROVAL,INHIBITOR,DNA topoisomerase II inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Daunorubicin,CHEMBL178,APPROVAL,INHIBITOR,DNA topoisomerase II alpha inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Daunorubicin Hydrochloride,CHEMBL1563,APPROVAL,INHIBITOR,DNA topoisomerase II alpha inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Dexrazoxane,CHEMBL1738,APPROVAL,INHIBITOR,DNA topoisomerase II inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Dexrazoxane Hydrochloride,CHEMBL1200778,APPROVAL,INHIBITOR,DNA topoisomerase II inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Doxorubicin,CHEMBL53463,APPROVAL,INHIBITOR,DNA topoisomerase II alpha inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Doxorubicin Hydrochloride,CHEMBL359744,APPROVAL,INHIBITOR,DNA topoisomerase II alpha inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Etoposide,CHEMBL44657,APPROVAL,INHIBITOR,DNA topoisomerase II inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Etoposide Phosphate,CHEMBL1200645,APPROVAL,INHIBITOR,DNA topoisomerase II alpha inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Idarubicin,CHEMBL1117,APPROVAL,INHIBITOR,DNA topoisomerase II alpha inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Idarubicin Hydrochloride,CHEMBL1200976,APPROVAL,INHIBITOR,DNA topoisomerase II alpha inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Mitoxantrone,CHEMBL58,APPROVAL,INHIBITOR,DNA topoisomerase II alpha inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Mitoxantrone Hydrochloride,CHEMBL1417019,APPROVAL,INHIBITOR,DNA topoisomerase II alpha inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Pazufloxacin,CHEMBL240163,APPROVAL,INHIBITOR,DNA topoisomerase II inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Teniposide,CHEMBL452231,APPROVAL,INHIBITOR,DNA topoisomerase II inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Valrubicin,CHEMBL1096885,APPROVAL,INHIBITOR,DNA topoisomerase II alpha inhibitor,CAUTION: antimitotic / genotoxic mechanism
+TOP2A,interaction partner,0.98,Vosaroxin,CHEMBL68117,APPROVAL,INHIBITOR,DNA topoisomerase II inhibitor,CAUTION: antimitotic / genotoxic mechanism
+RRM2,interaction partner,0.922,Clofarabine,CHEMBL1750,APPROVAL,INHIBITOR,Ribonucleoside-diphosphate reductase RR1 inhibitor,indeterminate direction
+RRM2,interaction partner,0.922,Fludarabine Phosphate,CHEMBL1096882,APPROVAL,INHIBITOR,Ribonucleoside-diphosphate reductase RR1 inhibitor,indeterminate direction
+RRM2,interaction partner,0.922,Gallium Nitrate,CHEMBL1200983,APPROVAL,INHIBITOR,Ribonucleoside-diphosphate reductase RR1 inhibitor,indeterminate direction
+RRM2,interaction partner,0.922,Gemcitabine,CHEMBL888,APPROVAL,INHIBITOR,Ribonucleoside-diphosphate reductase RR1 inhibitor,indeterminate direction
+RRM2,interaction partner,0.922,Gemcitabine Hydrochloride,CHEMBL1637,APPROVAL,INHIBITOR,Ribonucleoside-diphosphate reductase RR1 inhibitor,indeterminate direction
+RRM2,interaction partner,0.922,Hydroxyurea,CHEMBL467,APPROVAL,INHIBITOR,Ribonucleoside-diphosphate reductase RR1 inhibitor,indeterminate direction
+RRM2,interaction partner,0.922,Motexafin Gadolinium,CHEMBL3544910,APPROVAL,INHIBITOR,Ribonucleoside-diphosphate reductase RR1 inhibitor,indeterminate direction

@@ -1,0 +1,11 @@
+# never commit patient data or run outputs
+data/
+*.vcf*
+*.fastq*
+*.bam*
+*.bcf*
+.env
+kaggle_output/
+mva_work/
+mva_out/
+__pycache__/
